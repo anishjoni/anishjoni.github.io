@@ -18,7 +18,7 @@ author :
   feedburner : feedname
 
 # Adding there here:
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
