@@ -7,4 +7,4 @@ date: 2023-12-01
 
 Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
 
-There is no outer revolution without an inner revolution. 
+There is no outer revolution without an inner revolution.  
